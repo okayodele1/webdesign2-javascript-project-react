@@ -49,5 +49,3 @@ https://fonts.googleapis.com/css2?family=Play&display=swap
 
 https://m.youtube.com/results?sp=mAEA&search_query=routing+with+react+js
 
-https://m.youtube.com/watch?v=__7eOCxJyow&pp=ygUSaW5zdGFsbGluZyBub2RlIGpz
-
