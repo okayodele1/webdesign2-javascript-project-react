@@ -38,6 +38,8 @@ In summary, I approached the technical challenges of building the NGO website by
 
 Challenges in Deployment:
 I encounter difficulties trying to deploy on netlify but after several attempts  and trying out vercel, it eventually deployed on vercel
+
+
 GITHUB REPOSITORY LINK:
 
 
