@@ -42,6 +42,12 @@ I encounter difficulties trying to deploy on netlify but after several attempts 
 
 GITHUB REPOSITORY LINK:
 
+https://github.com/okayodele1/webdesign2-javascript-project-react
+
+
+VERCEL LINK:
+
+
 
 
 REFERENCE LINKS
