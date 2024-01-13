@@ -29,9 +29,9 @@ Challenges:
 •	Selecting the right colour and arrangement posed initial challenges. I overcame this by researching options and seeking advice from colleagues.
 •	Identifying design inconsistencies on different devices through testing will be a continuous process. I will resolve issues by refining the design and conducting subsequent tests.
 •	Balancing continuous improvements with day-to-day responsibilities will require strategic planning. I will prioritize tasks based on impact and urgency to manage this effectively.
-•	Achieving routing with JavaScript alone was a bit difficult, so I opted for an express module in node JS.
+•	Achieving routing with JavaScript alone was a bit difficult, so i had to make research and take tutorials on routing with react router
 •	I use one single index page to route every other pages.
-•	The routing wont giver users the opportunity to know which directory my files reside and It also makes the website load faster
+•	The routing wont give users the opportunity to know which directory my files reside and It also makes the website load faster
 •	Making the pages component based so that the codes can be reuseable.
 •	I used the form validation that won’t allow user to submit empty form
 In summary, I approached the technical challenges of building the NGO website by making informed decisions, seeking assistance when needed, and staying proactive in addressing issues. Continuous learning, adaptability, and a commitment to the NGO's mission was the key factors in overcoming technical challenges and ensuring the website's success.
