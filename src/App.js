@@ -4,12 +4,12 @@ import './App.css';
 import Home from './Home';
 import About from './About';
 import Contact from './contact';
-import Login from './Login';
 import NavBar from './navbar';
 import Membership from './membership';
 import Donate from './donate';
 import Footer from './footer';
 import SignUp from './SignUp';
+import Login from './Login';
 
 function App() {
   return (
