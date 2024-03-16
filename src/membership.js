@@ -4,7 +4,7 @@ const membership = () => {
         
 
 
-        <div class="sections">
+        <div class="sections-contact">
 
 <div class="contact-form">
 <h2> Membership / Donation</h2>

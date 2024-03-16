@@ -1,7 +1,7 @@
 const footer = () =>{
     return(
 <div class="footer">
-    <p>  Copyright OKUNADEAS 2023.</p>
+    <p>  Copyright AYHF 2024.</p>
 </div> 
 
     )
